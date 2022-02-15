@@ -9,7 +9,7 @@ The python modules used in this work include:<br>
 - pickle<br>
 ## Files and Folders In the Repository<br>
 Below are the various folders and files in the repository:<br>
-**- articles_community.csv and user-item-interactions.csv:** These are the datasets from the IBM Watson Studio platform, for analyses.<br>
+**- articles_community.csv and user-item-interactions.csv:** These are the datasets from the IBM Watson Studio platform, for analyses. Both files are contained in the data folder.<br>
 **- Recommendations_with_IBM.ipynb:** This is the jupyter notebook file containing the codes of this project. The .html version is also included and is designated Recommendations_with_IBM.html.<br>
 **- project_tests.py:** This is a python file containing some codes used to test some of the codes of this project.<br>
 **- top_5.p, top_10.p and top_20.p:** These are other test codes used to test another section of the codes of this project.<br>
