@@ -15,7 +15,7 @@ Below are the various folders and files in the repository:<br>
 **- top_5.p, top_10.p and top_20.p:** These are other test codes used to test another section of the codes of this project.<br>
 **- user_item_matrix.zip:** This is a zip pickle file of a matrix version of the dataset. This dataset presents the users and the articles they interacted with. The users are the index rows while the articles are the columns and the interactions are denoted with 1s while non-interactions are denoted with 0s.<br>
 ## How To Run The Program<br>
-It is easy to run this program. The codes are arranged in functions with docstrings explaining their tasks. One can choose any function of choice, input the necessary parameter and run to see the result. Therefore, the program can be run in parts. On the other hand, one can input the necessary parameters to all the functions run simultaneously, to see the various results.<br>
+It is easy to run this program. The codes are arranged in functions with docstrings explaining their tasks. One can choose any function of choice, input the necessary parameters and run to see the result. Therefore, the program can be run in parts. On the other hand, one can input the necessary parameters to all the functions and run simultaneously, to see the various results.<br>
 ## Results<br>
 **- Part I : Exploratory Data Analysis:** This part is concerned with exploration of the datasets analyzed in this project. Below is an example of the type of results shown in the part.<br>
 ![part_one](https://user-images.githubusercontent.com/44449730/153963381-f6095d8d-e85c-4815-a07e-cb3003f7060b.jpg)
